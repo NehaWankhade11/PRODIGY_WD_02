@@ -1,0 +1,36 @@
+body {
+    background-color: pink;
+}
+.timerBtn {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border: 3px solid;
+    border-radius: 10px;
+    background-color: #333333;
+    color: #fff;
+    cursor: pointer;
+    font-family: consolas, monospace;
+    font-size: 18px;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
+
+#timeDisplay {
+    padding-right: 20px;
+    margin-top: 60px;
+    font-size: 50px;
+    color: #40c437;
+    font-family: consolas, monospace;
+    gap: 40px;
+}
+
+#timeContainer {
+    width: 30%;
+    text-align: center;
+    border: 3px solid;
+    border-radius: 25px;
+    background-color: #222222;
+    margin: 200px auto 0;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.5);
+    padding-left: 15px;
+}
